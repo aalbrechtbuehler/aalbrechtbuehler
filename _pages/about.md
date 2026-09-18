@@ -185,67 +185,15 @@ redirect_from:
 </style>
 
 <div class="content-text">
-  <strong>John Doe</strong> is a fully funded Ph.D. researcher in Environmental Data Science at the <strong>University of Earth Sciences</strong>, advised by <strong>Dr. Jane Smith</strong> in the <strong>Climate Analytics Lab</strong>. His research applies Machine Learning and Spatial-Temporal Neural Networks to predictive climate modeling. Currently, he develops deep learning architectures to build AI-driven urban planning tools for <strong>Urban Heat Island (UHI) mitigation</strong>. Through multi-institutional collaborations, his work aims to translate environmental algorithms into scalable solutions for municipal governments and sustainability NGOs.
+  I am a PhD student in Cognitive Science and Pragmtics Group at the University of Tübingen. My work is part of the SFB 1718 Common Ground Project A7 (Modeling Great Ape Signaling Behavior: Evolutionary Roots of Common Ground). My general interests lie in animal communication and linguistic modeling, and I have worked with many model species including pigeons, bumblebees, Bengalese finches, and cichlids. My current research investigates multimodel communication in great apes using game- and information-theoretic approaches. I previously received a BA in Experimental Psychology from the University of Oxford, and an M.Sc. in Quantitative Data Science Methods from the University of Tübingen. Outside of my research, I enjoy playing classical piano, bouldering, and photography.
 </div>
 
-<div class="content-text">
-  Doe’s multidisciplinary foundation includes an M.Sc. in Geospatial Analytics, and a B.Sc. in Environmental Engineering. He is an inductee of the <strong>Global Sustainability Honor Society</strong> and recipient of the <strong>Green Earth Memorial Award</strong>. His research addressing real-world climate challenges is widely published in peer-reviewed venues indexed across <strong>IEEE Xplore</strong>, the <strong>ACM Digital Library</strong>, and <strong>Springer</strong>.
-</div>
-
-<div class="collab-box" style="text-align: justify; text-justify: inter-word;">
-  <i class="fas fa-lightbulb" style="color: #64748b; margin-right: 8px;"></i> I am actively seeking collaborative research opportunities to contribute to environmental science.
-</div>
 
 <h2 class="section-title">Research Interests</h2>
 <div class="interest-pills">
-  <span class="pill">Climate Modeling</span>
-  <span class="pill">Deep Learning</span>
-  <span class="pill">Spatial Analytics</span>
-  <span class="pill">Remote Sensing</span>
-  <span class="pill">Urban Planning</span>
-</div>
-
-<h2 class="section-title">Recent News</h2>
-<div class="news-scroll-container">
-  
-  <div class="timeline-item milestone">
-    <div class="timeline-date">Mar 2026</div>
-    <div class="timeline-content">Accepted a fully-funded Ph.D. offer in Environmental Data Science at the <strong>UES</strong>.</div>
-  </div>
-  
-  <div class="timeline-item">
-    <div class="timeline-date">Jan 2025</div>
-    <div class="timeline-content">Urban canopy mapping paper accepted at <strong>ICCI '25</strong>.</div>
-  </div>
-
-  <div class="timeline-item">
-    <div class="timeline-date">July 2024</div>
-    <div class="timeline-content">Microclimate temperature analysis paper accepted in <strong>Sustainable Cities and Society</strong>.</div>
-  </div>
-
-  <div class="timeline-item">
-    <div class="timeline-date">Apr 2024</div>
-    <div class="timeline-content">Urban Heat Island forecasting paper published in the <strong>Journal of Environmental Informatics</strong>.</div>
-  </div>
-
-  <div class="timeline-item milestone">
-    <div class="timeline-date">Aug 2023</div>
-    <div class="timeline-content">Joined the <strong>Department of Urban Development</strong> as a <strong>Climate Data Scientist</strong>.</div>
-  </div>
-
-  <div class="timeline-item">
-    <div class="timeline-date">Jul 2023</div>
-    <div class="timeline-content">Book chapter accepted in the <strong>Handbook of Computational Sustainability</strong> (Springer).</div>
-  </div>
-
-  <div class="timeline-item milestone">
-    <div class="timeline-date">Dec 2022</div>
-    <div class="timeline-content">Graduated with an <strong>M.Sc. in Geospatial Analytics</strong> (CGPA: 4.0).</div>
-  </div>
-
-  <div class="timeline-item">
-    <div class="timeline-date">Aug 2021</div>
-    <div class="timeline-content">Joined the <strong>Institute of Earth Sciences</strong> as a <strong>Graduate Research Assistant</strong>.</div>
-  </div>
-
+  <span class="pill">Animal Communication</span>
+  <span class="pill">Linguistics</span>
+  <span class="pill">Game Theory</span>
+  <span class="pill">Information Theory</span>
+  <span class="pill">Machine Learning</span>
 </div>
