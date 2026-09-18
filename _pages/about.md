@@ -185,7 +185,9 @@ redirect_from:
 </style>
 
 <div class="content-text">
-  I am a PhD student in the Cognitive Science and Pragmatics Group at the University of Tübingen. My work is part of the SFB 1718 Common Ground Project A7 (Modeling Great Ape Signaling Behavior: Evolutionary Roots of Common Ground). My general interests lie in animal communication and linguistic modeling, and I have worked with many model species including pigeons, bumblebees, Bengalese finches, and cichlids. My current research investigates multimodal communication in great apes using game- and information-theoretic approaches. I previously received a BA in Experimental Psychology from the University of Oxford, and an M.Sc. in Quantitative Data Science Methods from the University of Tübingen. Outside of my research, I enjoy playing classical piano, bouldering, and photography.
+  <p>I am a PhD student in the Cognitive Science and Pragmatics Group at the University of Tübingen, working in the SFB 1718 Common Ground Project A7 (Modeling Great Ape Signaling Behavior: Evolutionary Roots of Common Ground). My general interests lie in animal communication and linguistic modeling, and I have worked with many model species including pigeons, bumblebees, Bengalese finches, and cichlids. My current research investigates multimodal communication in great apes using game- and information-theoretic approaches. </p>
+    <p>I previously received a BA in Experimental Psychology from the University of Oxford, and an M.Sc. in Quantitative Data Science Methods from the University of Tübingen. </p>
+      <p>Outside of my research, I enjoy playing classical piano, bouldering, and photography.</p>
 </div>
 
 
