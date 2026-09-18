@@ -11,11 +11,11 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Your Name Here"
-description              : &description "Your Title / Role Here"
-url                      : "https://minimalacademicsite.github.io" 
+name                     : &name "Ananya Albrecht-Buehler"
+description              : &description "PhD Student"
+url                      : "https://aalbrechtbuehler.github.io" 
 baseurl                  : "" 
-repository               : "minimalacademicsite/minimalacademicsite.github.io"
+repository               : "aalbrechtbuehler/aalbrechtbuehler.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,21 +23,21 @@ repository               : "minimalacademicsite/minimalacademicsite.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "John Doe"
+  name             : "Ananya Albrecht-Buehler"
   description      : ""
   pronouns         : ""
   bio              : "I am a PhD student in Cognitive Science and Pragmtics Group at the University of Tübingen. My work is part of the SFB 1718 Common Ground Project A7 (Modeling Great Ape Signaling Behavior: Evolutionary Roots of Common Ground). My general interests lie in animal communication and linguistic modeling, and I have worked with many model species including pigeons, bumblebees, Bengalese finches, and cichlids. My current research investigates multimodel communication in great apes using game- and information-theoretic approaches. I previously received a BA in Experimental Psychology from the University of Oxford, and an M.Sc. in Quantitative Data Science Methods from the university of Tübingen. Outside of my research, I enjoy playing classical piano, bouldering, and photography."
-  location         : "City, Country"
-  employer         : "Institution Name"
+  location         : "Tübingen, Germany"
+  employer         : "Eberhard Karls Universität Tübingen"
   uri              : 
-  email            : "your.email@example.com" 
+  email            : "ananya [dot] albrecht-buehler [at] uni-tuebingen [dot] de" 
 
   # Academic websites
   academia         : 
   arxiv            : 
-  googlescholar    : "your-google-scholar-id"
+  googlescholar    : "https://scholar.google.com/citations?user=Jl85JcgAAAAJ&hl=en"
   impactstory      : 
-  orcid            : "your-orcid-id"
+  orcid            : "https://orcid.org/0009-0003-5528-061X"
   semantic         : 
   pubmed           : 
   researchgate     : 
@@ -47,7 +47,7 @@ author:
   bitbucket        : 
   codepen          : 
   dribbble         : 
-  github           : "your-github-username"
+  github           : "aalbrechtbuehler"
   kaggle           : 
   stackoverflow    : 
 
@@ -60,9 +60,9 @@ author:
   goodreads        : 
   google_plus      : 
   keybase          : 
-  instagram        : 
+  instagram        : "@aalbrechtbuehler"
   lastfm           : 
-  linkedin         : "your-linkedin-username"
+  linkedin         : 
   mastodon         : 
   medium           : 
   pinterest        : 
@@ -132,7 +132,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
